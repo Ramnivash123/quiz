@@ -1,0 +1,17 @@
+{
+    "name": "ramnivash/research_procrastination--main",
+    "autoload": {
+        "psr-4": {
+            "Ramnivash\\ResearchProcrastinationMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramnivash123",
+            "email": "ramnivash19022003@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.11"
+    }
+}
