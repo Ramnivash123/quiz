@@ -2,10 +2,10 @@
 // db.php
 
 // Database credentials
-$host = 'localhost';       // or your database host
-$dbname = 'image_database'; // name of your database
-$username = 'root';         // your database username
-$password = '';             // your database password (if any)
+$host = 'sql113.infinityfree.com';       // or your database host
+$dbname = 'if0_37559006_quiz'; // name of your database
+$username = 'if0_37559006';         // your database username
+$password = 'E8Yb5B2Hx3Z';             // your database password (if any)
 
 try {
     // Create a new PDO instance
